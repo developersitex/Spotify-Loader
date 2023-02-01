@@ -11,9 +11,9 @@
     "album",
     "track"
   ],
-  "success_url": "https://github.com/X-Gorn/Spotify-Loader",
-  "website": "https://github.com/X-Gorn",
-  "repository": "https://github.com/X-Gorn/Spotify-Loader",
+  "success_url": "https://github.com/developersitex/Spotify-Loader",
+  "website": "https://github.com/developersitex",
+  "repository": "https://github.com/developersitex/Spotify-Loader",
   "env": {
     "BOT_TOKEN": {
       "description": "Your bot token, as a string. Get this value from https://t.me/BotFather",
@@ -49,7 +49,7 @@
   "formation": {
     "worker": {
       "quantity": 1,
-      "size": "free"
+      "size": "eco"
     }
   }
 }
